@@ -1,3 +1,9 @@
+0.0.2 - 2023-04-24
+- Fix parent naming for ammo disassembly
+- Add expected parts for 7.92x33 (7.92x57)
+- Reduce 9x19 AP powder cost to match latest G.A.M.M.A patch
+- Fix 9x39 dissassembly to return the correct amount of parts
+
 0.0.1 - 2023-04-12
 - Update mod for [G.A.M.M.A](https://github.com/Grokitach/Stalker_GAMMA) version 0.9
 - Add compatibility for mods
