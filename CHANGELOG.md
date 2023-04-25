@@ -1,4 +1,4 @@
-0.0.2 - 2023-04-24
+1.0.1 - 2023-04-24
 - Fix parent naming for ammo disassembly
 - Add expected parts for 7.92x33 (7.92x57)
 - Reduce 9x19 AP powder cost to match latest G.A.M.M.A patch
