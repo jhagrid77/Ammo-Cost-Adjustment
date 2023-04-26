@@ -1,3 +1,7 @@
+2.0.0 - 2023-??-??
+- Allow for configuring adjusted powder requirements
+- Adjust new 9x21 variants added in latest ArtiGrok Ballistics update
+
 1.0.1 - 2023-04-24
 - Fix parent naming for ammo disassembly
 - Add expected parts for 7.92x33 (7.92x57)
