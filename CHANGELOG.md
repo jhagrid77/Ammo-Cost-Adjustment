@@ -1,7 +1,7 @@
 2.0.0 - 2023-05-02
 - Allow for configuring adjusted powder requirements
 - Adjust new 9x21 variants added in latest ArtiGrok Ballistics update
-- Remove return of Artigrok "powders"
+- Remove return of Artigrok artefact "powders" when disassembling
   - This would cause a Crash to Desktop due to not having a box\_size, instead being an item | [Discord Post](https://discord.com/channels/912320241713958912/1065168136577482753/1102879099892027442) | [Github Commit](https://github.com/ilrathCXV/ArtiGrok-Ballistics-GAMMA-ilrath-Mo3/commit/b10f6d355a04ff630fcc581443e27e49a29ebe1c)
 
 1.0.1 - 2023-04-24
