@@ -4,7 +4,7 @@ This is a mod for the [S.T.A.L.K.E.R. Anomaly](https://www.moddb.com/mods/stalke
 This is a continuation of Atheon's original mod, seen in this [Discord Forum Post](https://discord.com/channels/912320241713958912/1040575368932892712/1040575368932892712).
 
 ## What does this mod do?
-This mod currently reduces the casing and bullet cost for crafting ammunition, and try to bring it closer to 1:1.
+This mod currently reduces the casing, bullet and [optionally] powder cost for crafting ammunition, and try to bring it closer to 1:1.
 
 It also adjusts the amount of materials that can be returned upon disassembly to match these adjustments.
 
