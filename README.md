@@ -10,11 +10,11 @@ It also adjusts the amount of materials that can be returned upon disassembly to
 
 ## Mod Comatibility
 This mod currently has compatibility for the following:
-  - Momo's 20x70 Slugs [Discord Forum Post](https://discord.com/channels/912320241713958912/969891558281334825/1033125740557897729)
+  - Momo's 20x70 Slugs | [Discord Forum Post](https://discord.com/channels/912320241713958912/969891558281334825/1033125740557897729)
   - .45 Behemoth | [Discord Forum Post](https://discord.com/channels/912320241713958912/1052402537099169822/1052402537099169822)
   - 9x21 FMJ and HP Ammo | [Discord Forum Post](https://discord.com/channels/912320241713958912/1037521838202433616/1037521838202433616) | [GitHub](https://github.com/ilrathCXV/9x21-FMJ-HP-Ammo-GAMMA)
   - .357 FMJ Monolithic Ammo | [Discord Forum Post](https://discord.com/channels/912320241713958912/1043063409098371083/1043063409098371083) | [GitHub](https://github.com/ilrathCXV/.357-FMJ-Monolithic-Ammo)
-  - ATHI SIG MCX SPEAR [Discord Forum Post](https://discord.com/channels/912320241713958912/1036112180145299536/1036112180145299536)
+  - ATHI SIG MCX SPEAR | [Discord Forum Post](https://discord.com/channels/912320241713958912/1036112180145299536/1036112180145299536)
   - ArtiGrok Ballistics | [Discord Forum Post](https://discord.com/channels/912320241713958912/1065168136577482753/1065168136577482753) | [GitHub](https://github.com/ilrathCXV/ArtiGrok-Ballistics-GAMMA-ilrath-Mo3)
     - Further compatibility for additional ammo types of:
       - .45 Behemoth
@@ -22,4 +22,4 @@ This mod currently has compatibility for the following:
     - Eliminate the use of salvage high / salvage low for default 0.4
   - Retrogue .300 Blackout | [Discord Forum Post](https://discord.com/channels/912320241713958912/1036727845726204024/1036727845726204024) | [Google Drive](https://drive.google.com/drive/folders/1szYgPK8zZXWuU_naye-E2CTAWzBPxZC0)
   - Retrogue .458 Socom | [Discord Forum Post](https://discord.com/channels/912320241713958912/1036727845726204024/1036727845726204024) | [Google Drive](https://drive.google.com/drive/folders/1szYgPK8zZXWuU_naye-E2CTAWzBPxZC0)
-  - Shon's Western Wonders [Discord Forum Post](https://discord.com/channels/912320241713958912/1055545995330592848/1055545995330592848) | [Google Drive](https://drive.google.com/drive/folders/1n0RWGcUVGzdjzfSV_jko36oqjIisQEbk)
+  - Shon's Western Wonders | [Discord Forum Post](https://discord.com/channels/912320241713958912/1055545995330592848/1055545995330592848) | [Google Drive](https://drive.google.com/drive/folders/1n0RWGcUVGzdjzfSV_jko36oqjIisQEbk)
