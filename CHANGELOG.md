@@ -1,3 +1,10 @@
+2.1.0 - ????-??-??
+- DLTXify configs
+- Add compatibility for mods
+  - ATHI SIG MCX SPEAR [Discord Forum Post](https://discord.com/channels/912320241713958912/1036112180145299536/1036112180145299536)
+  - Momo's 20x70 Slugs [Discord Forum Post](https://discord.com/channels/912320241713958912/969891558281334825/1033125740557897729)
+  - Shon's Western Wonders [Discord Forum Post](https://discord.com/channels/912320241713958912/1055545995330592848/1055545995330592848) | [Google Drive](https://drive.google.com/drive/folders/1n0RWGcUVGzdjzfSV_jko36oqjIisQEbk)
+
 2.0.0 - 2023-05-02
 - Allow for configuring adjusted powder requirements
 - Adjust new 9x21 variants added in latest ArtiGrok Ballistics update
@@ -13,12 +20,12 @@
 0.0.1 - 2023-04-12
 - Update mod for [G.A.M.M.A](https://github.com/Grokitach/Stalker_GAMMA) version 0.9
 - Add compatibility for mods
-  - 9x21 FMJ and HP Ammo [Discord Forum Post](https://discord.com/channels/912320241713958912/1037521838202433616/1037521838202433616) [GitHub](https://github.com/ilrathCXV/9x21-FMJ-HP-Ammo-GAMMA)
-  - .357 FMJ Monolithic Ammo [Discord Forum Post](https://discord.com/channels/912320241713958912/1043063409098371083/1043063409098371083) [GitHub](https://github.com/ilrathCXV/.357-FMJ-Monolithic-Ammo)
+  - 9x21 FMJ and HP Ammo [Discord Forum Post](https://discord.com/channels/912320241713958912/1037521838202433616/1037521838202433616) | [GitHub](https://github.com/ilrathCXV/9x21-FMJ-HP-Ammo-GAMMA)
+  - .357 FMJ Monolithic Ammo [Discord Forum Post](https://discord.com/channels/912320241713958912/1043063409098371083/1043063409098371083) | [GitHub](https://github.com/ilrathCXV/.357-FMJ-Monolithic-Ammo)
   - .45 Behemoth [Discord Forum Post](https://discord.com/channels/912320241713958912/1052402537099169822/1052402537099169822)
-  - Retrogue .300 Blackout [Discord Forum Post](https://discord.com/channels/912320241713958912/1036727845726204024/1036727845726204024) [Google Drive](https://drive.google.com/drive/folders/1szYgPK8zZXWuU_naye-E2CTAWzBPxZC0)
-  - Retrogue .458 Socom [Discord Forum Post](https://discord.com/channels/912320241713958912/1036727845726204024/1036727845726204024) [Google Drive](https://drive.google.com/drive/folders/1szYgPK8zZXWuU_naye-E2CTAWzBPxZC0)
-  - ArtiGrok Ballistics [Discord Forum Post](https://discord.com/channels/912320241713958912/1065168136577482753/1065168136577482753) [GitHub](https://github.com/ilrathCXV/ArtiGrok-Ballistics-GAMMA-ilrath-Mo3)
+  - Retrogue .300 Blackout [Discord Forum Post](https://discord.com/channels/912320241713958912/1036727845726204024/1036727845726204024) | [Google Drive](https://drive.google.com/drive/folders/1szYgPK8zZXWuU_naye-E2CTAWzBPxZC0)
+  - Retrogue .458 Socom [Discord Forum Post](https://discord.com/channels/912320241713958912/1036727845726204024/1036727845726204024) | [Google Drive](https://drive.google.com/drive/folders/1szYgPK8zZXWuU_naye-E2CTAWzBPxZC0)
+  - ArtiGrok Ballistics [Discord Forum Post](https://discord.com/channels/912320241713958912/1065168136577482753/1065168136577482753) | [GitHub](https://github.com/ilrathCXV/ArtiGrok-Ballistics-GAMMA-ilrath-Mo3)
     - Further compatibility for additional ammo types of:
       - .45 Behemoth
       - Retrogue .300 Blackout
